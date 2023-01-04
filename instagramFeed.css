@@ -1,5 +1,5 @@
 body {
-    background-color:#eaeaea ;
+    background-color:black ;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -40,5 +40,16 @@ span {
 }
 
 .instagram-logo {
-    hi
+    height: 40px;
+    width: 75px;
+    margin-top: 10px;
+    margin-left: 35%;
+}
+
+.container-header1 {
+    display: flex;
+}
+
+h1 {
+    margin-bottom: 0px;
 }
